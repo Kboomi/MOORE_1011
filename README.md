@@ -1,6 +1,6 @@
-# MOORE_1011
+ # MOORE_1011
 # AIM:
-To stimulate and synthesis MOORE Sequence Detector for 1011 using Vivado.
+To stimulate and synthesis MOORE Sequence Detector for 1011 using  Vivado.
 
 # Software Required:
 vivado 2023.2 software.
